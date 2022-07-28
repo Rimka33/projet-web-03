@@ -1,0 +1,23 @@
+#papa {
+    text-align: center;
+    border: 1px solid rgb(66, 66, 109);
+    border-collapse: collapse;
+    border-radius: 20px;
+    padding: 10px;
+}   
+body{
+    background-image: url(../image/mm.jpg);
+    background-size: cover;
+}
+a{
+    padding: 50px;
+    color: black;
+}
+h4{
+    text-align: center;
+    margin-top: 5%;
+}
+h3{
+    color: rgb(238, 184, 118);
+}
+
